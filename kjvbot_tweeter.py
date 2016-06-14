@@ -29,10 +29,10 @@ tweet = '"' + utterance + '"'
 tweet_len = len(tweet)
 
 # twitter api keys and secrets (get these for your account at apps.twitter.com)
-consumer_key = 'dnz75t8CWUC5znIce3gWmQ0a2'
-consumer_secret = '83Sk8bT5vVLloadULrgWPbTrEcjxpTW64Fb7WW7QN2cvO4AHMB'
-access_key = '4467417379-SBJb28RkD9RX0E7DwCdYTMrLxuymFpbqrL6HATk'
-access_secret = 'cDkNn0Hj9GzmAEiMYQJ1rCrbkhBWAPWG8BnlR2Pn6lIEo'  
+consumer_key = ''
+consumer_secret = ''
+access_key = ''
+access_secret = ''  
 
 # call function to tweet utterance    
 print(tweet, '\n', tweet_len)
